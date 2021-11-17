@@ -4,7 +4,7 @@ $ pkg install python2
 
 $ pkg install git
 
-$ git clone https://github.com/bangpey/bangpey
+$ git clone https://github.com/bangpey/ig
 
 $ pip2 install requests bs4
 
