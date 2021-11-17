@@ -10,6 +10,6 @@ $ pip2 install requests bs4
 
 $ pip2 install futures
 
-$ cd bangpey
+$ cd ig
 
 $ python2 insta.py
